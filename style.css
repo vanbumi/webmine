@@ -1,0 +1,18 @@
+nav {
+  background-color: aqua;
+  margin-bottom: 150px;
+}
+
+.navbar-brand.warna {
+  /* background-color: blue; */
+  color: black; 
+}
+
+.container {
+  background-color: bisque;
+}
+
+#top-banner {
+  width: 100%;
+  height: auto;
+} 
